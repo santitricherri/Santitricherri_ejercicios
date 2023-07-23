@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', monospace;
+    background: linear-gradient(to right, #7F7A82FF, #ffffff);
+}
+div{
+    border: 2px dashed #1f1bff;
+    margin: 40px;
+    padding: 50px 30px;
+    border-radius: 15px;
+    box-shadow: 10px 12px #101e3b;
+}
+#principal{
+    width: 60px;
+    float: left;
+    border-radius: 50%;
+}
+div.especial h3{
+    font-family: 'rubik', sans-serif;
+    text-shadow: 10px 5px #999;
+}
